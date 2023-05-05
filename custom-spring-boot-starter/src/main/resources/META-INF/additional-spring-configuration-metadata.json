@@ -1,0 +1,10 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "app.url.myUrl",
+      "description": "自定义提示内容：输入url"
+    }
+  ],
+  "hints": []
+}
